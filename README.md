@@ -6,8 +6,23 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_gsl_tiger) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyarsilalsolanki)
 
 
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+## 🛠️ Languages and Tools
+`Programming Languages`
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,js&theme=dark)]()
+
+`Frameworks`
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,django,fastapi&theme=dark)]()
+
+`Databases`
+
+[![My Skills](https://skillicons.dev/icons?i=sqllite,mysql&theme=dark)]()
+
+`Tools & Platforms`
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,github,firebase&theme=dark)]()
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gyarsilalsolanki011&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gyarsilalsolanki011&theme=tokyonight&hide_border=true)<br/>
