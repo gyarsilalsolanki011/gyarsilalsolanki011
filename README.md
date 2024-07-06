@@ -1,3 +1,9 @@
+<h1>
+ <p align="center">
+ Hello!, Welcome to my profile
+</p>
+</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on Android Development<br>👯 I’m looking to collaborate on Android applications<br>🤝 I’m looking for help with Kotlin and Java<br>🌱 I’m currently learning Kotlin
 
@@ -17,7 +23,7 @@
 
 `Databases`
 
-[![My Skills](https://skillicons.dev/icons?i=sqllite,mysql&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)]()
 
 `Tools & Platforms`
 
