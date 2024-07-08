@@ -7,7 +7,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Android Development<br>👯 I’m looking to collaborate on Android applications<br>🤝 I’m looking for help with Kotlin and Java<br>🌱 I’m currently learning Kotlin
 
-<br/>
 
 ## 🛠️ Languages and Tools
 `Programming Languages`
@@ -30,6 +29,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_gsl_tiger) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyarsilalsolanki)
+
 <br/>
 
 # 📊 GitHub Stats:
