@@ -15,11 +15,11 @@
 
 `Frameworks`
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,django,fastapi&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=flutter,springboot&theme=dark)]()
 
 `Databases`
 
-[![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark)]()
 
 `Tools & Platforms`
 
