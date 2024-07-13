@@ -5,17 +5,17 @@
 </h1>
 
 # 💫 About Me:
-🔭 I’m currently working on Android Development<br>👯 I’m looking to collaborate on Android applications<br>🤝 I’m looking for help with Kotlin and Java<br>🌱 I’m currently learning Kotlin
+🔭 I’m currently working on Android Development<br>👯 I’m looking to collaborate on Android applications<br>🤝 I’m looking for help with Kotlin and Java<br>🌱 I’m currently learning spring boot
 
 
 ## 🛠️ Languages and Tools
 `Programming Languages`
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,js&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,c++&theme=dark)]()
 
 `Frameworks`
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,springboot&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=flutter,spring&theme=dark)]()
 
 `Databases`
 
