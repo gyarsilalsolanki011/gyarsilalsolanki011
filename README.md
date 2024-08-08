@@ -5,7 +5,7 @@
 </h1>
 
 # 💫 About Me:
-🔭 I’m currently working on Android Development<br>👯 I’m looking to collaborate on Android applications<br>🤝 I’m looking for help with Kotlin and Java<br>🌱 I’m currently learning spring boot
+🔭 I’m currently working on Android Development<br>👯 I’m looking to collaborate on Android applications<br>🤝 I’m looking to collaborate on backend Spring Boot Framework<br>🌱 I’m currently learning flutter Devlopment
 
 
 ## 🛠️ Languages and Tools
