@@ -12,7 +12,7 @@
 ## 🛠️ Languages and Tools
 `Programming Languages`
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,c++&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,dart,c,cpp&theme=dark)]()
 
 `Frameworks`
 
