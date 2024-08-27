@@ -1,4 +1,5 @@
-![Github banner](https://github.com/user-attachments/assets/3ce9e65a-fb91-4724-a21c-b0a14911606e)
+![Github banner](https://github.com/user-attachments/assets/b8db1dbf-d857-4c8a-9e87-e149468c4e97)
+
 <h1>
  <p align="center">
  Hello!, Welcome to my profile
