@@ -1,5 +1,4 @@
-![Github banner](![Github banner](https://github.com/user-attachments/assets/1e88af2c-9a64-466c-b4ee-e1cfc38ac074)
-)
+![Github banner](https://github.com/user-attachments/assets/1e88af2c-9a64-466c-b4ee-e1cfc38ac074)
 
 <h1>
  <p align="center">
