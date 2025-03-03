@@ -17,7 +17,7 @@
 
 `Frameworks`
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,spring&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=flutter,hibernate,spring&theme=dark)]()
 
 `Databases`
 
@@ -25,7 +25,7 @@
 
 `Tools & Platforms`
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,postman,git,github,firebase&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,postman,git,github,docker,firebase&theme=dark)]()
 
 <br/>
 
