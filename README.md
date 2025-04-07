@@ -7,7 +7,7 @@
 </h1>
 
 # 💫 About Me:
-🔭 I’m currently working on Android Development<br>🤝 I’m looking to collaborate on Spring Boot backend Framework<br>👯 Ask me about Android applications<br>🌱 I’m currently learning flutter Devlopment
+🔭 I’m currently working on Java Development<br>🤝 I’m looking to collaborate on Spring Boot backend development<br>👯 Ask me about Spring Boot, Android applications, Rest APIs.<br>🌱 I’m currently exploring Backend Development.
 
 
 ## 🛠️ Languages and Tools
