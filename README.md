@@ -21,7 +21,7 @@
 
 `Databases`
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark)]()
 
 `Tools & Platforms`
 
