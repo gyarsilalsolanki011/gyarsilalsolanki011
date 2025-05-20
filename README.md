@@ -17,7 +17,7 @@
 
 `Frameworks`
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,hibernate,spring&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=spring,hibernate,Jpa&theme=dark)]()
 
 `Databases`
 
