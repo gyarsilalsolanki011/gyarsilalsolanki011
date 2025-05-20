@@ -17,15 +17,15 @@
 
 `Frameworks`
 
-[![My Skills](https://skillicons.dev/icons?i=spring,hibernate,Jpa&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=spring,hibernate,flutter&theme=dark)]()
 
 `Databases`
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&theme=dark)]()
 
 `Tools & Platforms`
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,postman,git,github,docker,firebase&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,androidstudio,postman,maven,git,github,docker,firebase,redis,kafka&theme=dark)]()
 
 <br/>
 
