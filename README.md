@@ -30,7 +30,7 @@
 <br/>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_gsl_tiger) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyarsilalsolanki)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=Portfolio&logoColor=white)](https://portfolio-production-808d.up.railway.app/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_gsl_tiger) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyarsilalsolanki)
 
 
 # 📊 GitHub Stats:
