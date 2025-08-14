@@ -9,8 +9,9 @@
 # 💫 About Me:
 🔭 I’m currently working on Java Development<br>🤝 I’m looking to collaborate on Spring Boot backend development<br>👯 Ask me about Spring Boot, Android applications, Rest APIs.<br>🌱 I’m currently exploring Backend Development.
 
+<br/>
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Skills:
 `Programming Languages`
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,dart,c,cpp&theme=dark)]()
