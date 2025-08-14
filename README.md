@@ -15,9 +15,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,dart,c,cpp&theme=dark)]()
 
-`Frameworks`
+`Android Technologies`
 
-[![My Skills](https://skillicons.dev/icons?i=spring,hibernate,flutter&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,materialui,redis,kafka,gradle&theme=dark)]()
+
+`Backend Technologies`
+
+[![My Skills](https://skillicons.dev/icons?i=spring,hibernate,docker,maven&theme=dark)]()
 
 `Databases`
 
@@ -25,12 +29,12 @@
 
 `Tools & Platforms`
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,androidstudio,postman,maven,git,github,docker,firebase,redis,kafka&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,postman,git,github,githubcopilot,firebase,githubactions,gitlab,railway&theme=dark)](https://skillicons.dev)
 
 <br/>
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=Portfolio&logoColor=white)](https://portfolio-production-808d.up.railway.app/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_gsl_tiger) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyarsilalsolanki)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_gsl_tiger) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gyarsilalsolanki)
 
 
 # 📊 GitHub Stats:
