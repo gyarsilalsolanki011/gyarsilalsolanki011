@@ -30,7 +30,7 @@
 
 `Tools & Platforms`
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,postman,git,github,githubcopilot,firebase,githubactions,gitlab,railway&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,postman,git,github,firebase,githubactions,gitlab,railway&theme=dark)](https://skillicons.dev)
 
 <br/>
 
