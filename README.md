@@ -39,7 +39,7 @@
 We’re building a collaborative developer community under the **Eleven Development Cafe** GitHub organization.  
 Join us to contribute, collaborate, and grow together! 🚀  
 
-[![Join Us](https://img.shields.io/badge/Join%20Eleven%20Dev%20Cafe-GitHub%20Org-black?style=for-the-badge&logo=github)](https://github.com/orgs/Eleven-Development-Cafe)
+[![Join Us](https://img.shields.io/badge/Join%20Eleven%20Dev%20Cafe-GitHub%20Org-black?style=for-the-badge&logo=github)](https://github.com/orgs/eleven-dev-cafe)
 
 <br/>
 
