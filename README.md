@@ -11,7 +11,7 @@
 
 <br/>
 
-## 🛠️ Tech Skills:
+# 🛠️ Tech Skills:
 `Programming Languages`
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,dart,c,cpp&theme=dark)]()
@@ -34,12 +34,25 @@
 
 <br/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gyarsilal-solanki) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/gyarsilalsolanki011) [![Pinterest](https://img.shields.io/badge/Pinterest-%23BD081C.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/gyarsilalsolanki011) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_gsl_tiger) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Itz_gsl_tiger) [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=Snapchat&logoColor=black)](https://www.snapchat.com/add/itz_gsltiger?share_id=7OCVgTGQWSg&locale=en-GB) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=919111852267) [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gyarsilalsolanki011@gmail.com)
+# 🌐 Join Eleven Development Cafe
 
-Join us to discuss ideas, share feedback, and coordinate contributions:  
-[![Join Discord](https://img.shields.io/discord/1405808666179014697?color=4CBB17&label=Join%20Us%20on%20Discord&logo=discord&logoColor=blue)](https://discord.gg/Zrc9x3ts)
+We’re building a collaborative developer community under the **Eleven Development Cafe** GitHub organization.  
+Join us to contribute, collaborate, and grow together! 🚀  
 
+[![Join Us](https://img.shields.io/badge/Join%20Eleven%20Dev%20Cafe-GitHub%20Org-black?style=for-the-badge&logo=github)](https://github.com/orgs/Eleven-Development-Cafe)
+
+<br/>
+
+# Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gyarsilal-solanki) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/gyarsilalsolanki011) [![Pinterest](https://img.shields.io/badge/Pinterest-%23BD081C.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/gyarsilalsolanki011) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_gsl_tiger) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Itz_gsl_tiger) [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=Snapchat&logoColor=black)](https://www.snapchat.com/add/itz_gsltiger?share_id=7OCVgTGQWSg&locale=en-GB) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=919111852267) [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gyarsilalsolanki011@gmail.com)<br/>
+
+### 📬 Join My Communities
+Let’s connect, collaborate, and build together! 🚀  
+[![Join Discord](https://img.shields.io/discord/1405808666179014697?color=4CBB17&label=Join%20Us%20on%20Discord&logo=discord&logoColor=blue)](https://discord.gg/Zrc9x3ts)<br/>
+[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-black?style=for-the-badge&logo=github)](https://github.com/your-username/your-repo/discussions)
+
+</br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gyarsilalsolanki011&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
