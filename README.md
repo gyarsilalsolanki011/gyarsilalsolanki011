@@ -34,7 +34,7 @@
 
 <br/>
 
-# 🌐 Join Eleven Development Cafe
+# 🌐 Join ***Eleven Development Cafe***
 
 We’re building a collaborative developer community under the **Eleven Development Cafe** GitHub organization.  
 Join us to contribute, collaborate, and grow together! 🚀  
