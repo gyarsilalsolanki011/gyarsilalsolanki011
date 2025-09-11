@@ -52,7 +52,7 @@ Let’s connect, collaborate, and build together! 🚀
 [![Join Discord](https://img.shields.io/discord/1405808666179014697?color=4CBB17&label=Join%20Us%20on%20Discord&logo=discord&logoColor=blue)](https://discord.gg/Zrc9x3ts)<br/>
 [![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-black?style=for-the-badge&logo=github)](https://github.com/eleven-dev-cafe/cafe-talks/discussions)
 
-</br>
+<br/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gyarsilalsolanki011&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
