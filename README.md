@@ -34,16 +34,35 @@
 
 <br/>
 
-# 🌐 Join ***Eleven Development Cafe***
+# 🌟 Featured Projects
 
-We’re building a collaborative developer community under the **Eleven Development Cafe** GitHub organization.  
-Join us to contribute, collaborate, and grow together! 🚀  
+1. **Banking Application**
+   - A full-stack Android & Spring Boot banking app with **QR payments, user roles, and analytics**.  
+   - Tech: Java, Kotlin, Spring Boot, MongoDB  
+   - [Repo Link](https://github.com/gyarsilalsolanki011/banking-application)
 
-[![Join Us](https://img.shields.io/badge/Join%20Eleven%20Dev%20Cafe-GitHub%20Org-black?style=for-the-badge&logo=github)](https://github.com/orgs/eleven-dev-cafe)
+2. **Smart Expense Tracker**
+   - Spring boot app to track income/expenses with **analytics dashboards and PDF/Excel export**.  
+   - Tech: Spring Boot, Thymeleaf, Chart.js  
+   - [Repo Link](https://github.com/gyarsilalsolanki011/smart-expense-tracker)
+
+3. **Weather Cap**
+   - Android app for **fetching weather info using APIs**.  
+   - Tech: Java, Retrofit, XML UI  
+   - [Repo Link](https://github.com/gyarsilalsolanki011/weather-cap)
+  
+> Some of my projects pined below..👇
 
 <br/>
 
-# Socials:
+## 🏆 Certifications & Achievements
+- GitHub Professional [Certificate](https://www.linkedin.com/learning/certificates/30bc416d905dc4bee7d237d645553826554edb8f8ea7a738d8ca8f8122d3a64f?trk=share_certificate) – Career Essentials  
+- Docker Professional [Certificate](https://www.linkedin.com/learning/certificates/f85d0185e63c3c5b2f0c35b1f0ebc5c01b8a8793186581f1054abffaed65c66c?trk=share_certificate) - Foundational 
+- Qualified Gate in 2k25
+
+<br/>
+
+# 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gyarsilal-solanki) [![Pinterest](https://img.shields.io/badge/Pinterest-%23BD081C.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/gyarsilalsolanki011) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_gsl_tiger) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Itz_gsl_tiger) [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=Snapchat&logoColor=black)](https://www.snapchat.com/add/itz_gsltiger?share_id=7OCVgTGQWSg&locale=en-GB) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=919111852267) [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gyarsilalsolanki011@gmail.com)<br/>
 
@@ -55,13 +74,25 @@ Let’s connect, collaborate, and build together! 🚀
 
 <br/>
 
+## 🍵 Join ***Eleven Development Cafe***
+
+We’re building a collaborative developer community under the **Eleven Development Cafe** GitHub organization.  
+Join us to contribute, collaborate, and grow together! 🚀  
+
+[![Join Us](https://img.shields.io/badge/Join%20Eleven%20Dev%20Cafe-GitHub%20Org-black?style=for-the-badge&logo=github)](https://github.com/orgs/eleven-dev-cafe)
+
+<br/>
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gyarsilalsolanki011&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=gyarsilalsolanki011&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gyarsilalsolanki011&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gyarsilalsolanki011&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gyarsilalsolanki011&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=gyarsilalsolanki011&show_icons=true&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### 📊 Contribution Activity
+[![Gyarsilal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gyarsilalsolanki011&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -70,6 +101,7 @@ Let’s connect, collaborate, and build together! 🚀
 ![](https://github-contributor-stats.vercel.app/api?username=gyarsilalsolanki011&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gyarsilalsolanki011&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=gyarsilalsolanki011&icon=5&color=6)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
