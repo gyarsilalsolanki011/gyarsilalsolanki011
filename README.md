@@ -57,7 +57,8 @@
 
 ## 🏆 Certifications & Achievements
 - GitHub Professional [Certificate](https://www.linkedin.com/learning/certificates/30bc416d905dc4bee7d237d645553826554edb8f8ea7a738d8ca8f8122d3a64f?trk=share_certificate) – Career Essentials  
-- Docker Professional [Certificate](https://www.linkedin.com/learning/certificates/f85d0185e63c3c5b2f0c35b1f0ebc5c01b8a8793186581f1054abffaed65c66c?trk=share_certificate) - Foundational 
+- Docker Professional [Certificate](https://www.linkedin.com/learning/certificates/f85d0185e63c3c5b2f0c35b1f0ebc5c01b8a8793186581f1054abffaed65c66c?trk=share_certificate) - Foundational
+- Industrial Training Jun-July 2k24 - Backend Developer
 - Qualified Gate in 2k25
 
 <br/>
