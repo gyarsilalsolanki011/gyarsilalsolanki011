@@ -118,6 +118,6 @@ Join us to contribute, collaborate, and grow together! 🚀
 
 <br/>
 
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gyarsilalsolanki011&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gyarsilalsolanki011&label=Profile%20views&color=4CBB17&style=flat" alt="gyarsilalsolanki011" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
