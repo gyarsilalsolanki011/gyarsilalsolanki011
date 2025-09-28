@@ -1,12 +1,12 @@
 ![Github banner](https://github.com/user-attachments/assets/4c23c615-ec32-4e65-9eac-b60e481f73fa)
 
 <h1 style="margin-top:8px; text-align:center; color:#FFFFFF; font-weight:bold;">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=950&lines=Hello!,+Welcome+to+my+Github+Profile." alt="Typing SVG — Hello!, Welcome to my Github Profile" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=950&lines=Hello!,+Welcome+to+my+Github+Profile." alt="Hello!, Welcome to my Github Profile" />
 </h1>
 
 <br/>
 
-# 💫 About Me
+## 💫 About Me
 
 🔭 **Currently seeking**: A full-time job opportunity.  
 👯 **Open to roles**: _Android Developer_ | _Java Developer_  
@@ -17,7 +17,7 @@
 
 <br/>
 
-# 🛠️ Tech Skills
+## 🛠️ Tech Skills
 
 `Programming Languages` 
 
@@ -41,7 +41,7 @@
 
 <br/>
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
 1. **Banking Application**  
    A full-stack Android & Spring Boot banking app with **QR payments, user roles, and analytics**.  
@@ -70,21 +70,21 @@
 
 <br/>
 
-# 🌐 Connect with Me  
+## 🌐 Connect with Me  
 
-### 💼 Profile & Contact  
+#### 💼 Profile & Contact  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gyarsilal-solanki/)  
 [![Docker Hub](https://img.shields.io/badge/DockerHub-Profile-2496ED?logo=docker&style=for-the-badge)](https://hub.docker.com/u/gyarsilalsolanki011)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&style=for-the-badge)](https://api.whatsapp.com/send/?phone=917620824421)  
 [![Email](https://img.shields.io/badge/Email-gyarsilalsolanki.dev%40gmail.com-D14836?logo=gmail&style=for-the-badge)](mailto:gyarsilalsolanki.dev@gmail.com)   
 
 
-### 📬 Join My Communities  
+#### 📬 Join My Communities  
 [![Join Discord](https://img.shields.io/discord/1405808666179014697?color=5865F2&label=Join%20Us%20on%20Discord&logo=discord&style=for-the-badge)](https://discord.gg/Zrc9x3ts)  
 [![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?logo=github&style=for-the-badge)](https://github.com/eleven-dev-cafe/cafe-talks/discussions)  
 [![Join WhatsApp Group](https://img.shields.io/badge/WhatsApp-Community-25D366?logo=whatsapp&style=for-the-badge)](https://chat.whatsapp.com/Fzt4KispCmk0seaPgSvkyX)  
 
-### 🌐 Socials  
+#### 🌐 Socials  
 [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?logo=pinterest&logoColor=white&style=for-the-badge)](https://in.pinterest.com/gyarsilalsolanki011) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/itz_gsl_tiger) 
 [![Twitter / X](https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=white&style=for-the-badge)](https://x.com/Itz_gsl_tiger) 
@@ -92,7 +92,7 @@
 
 <br/>
 
-## 🍵 Join ***Eleven Development Cafe***
+### 🍵 Join ***Eleven Development Cafe***
 We are building a collaborative developer community under the **Eleven Development Cafe** GitHub organization.  
 Join us to contribute, collaborate, and grow together! 🚀  
 
@@ -100,15 +100,15 @@ Join us to contribute, collaborate, and grow together! 🚀
 
 <br/>
 
-# 📊 GitHub Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyarsilalsolanki011&theme=tokyonight)
+## 📊 GitHub Stats
+![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyarsilalsolanki011&theme=tokyonight)
 ![Stats](https://github-readme-stats.vercel.app/api?username=gyarsilalsolanki011&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gyarsilalsolanki011&theme=tokyonight&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gyarsilalsolanki011&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <br/>
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=gyarsilalsolanki011&show_icons=true&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### 📊 Contribution Activity
