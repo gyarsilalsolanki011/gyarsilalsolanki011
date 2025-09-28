@@ -1,17 +1,19 @@
 ![Github banner](https://github.com/user-attachments/assets/4c23c615-ec32-4e65-9eac-b60e481f73fa)
 
-<h1 align="center">
-Hello! Welcome to my Profile
+<h1 style="margin-top:8px; text-align:center; color:#FFFFFF; font-weight:bold;">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=950&lines=Hello!,+Welcome+to+my+Github+Profile." alt="Typing SVG — Hello!, Welcome to my Github Profile" />
 </h1>
 
 <br/>
 
 # 💫 About Me
-🔭 I am currently seeking a full-time job opportunity.  
-👯 I am available for **Android Developer** or **Java Developer** roles.  
-🤝 I am looking to collaborate on **Spring Boot** and **Android development** projects.  
-🌩️ Feel free to ask me about _**Spring Boot**_, _**Android applications**_, and _**REST APIs**_.  
-🌱 I am currently exploring _**Jetpack Compose**_.
+
+🔭 **Currently seeking**: A full-time job opportunity.  
+👯 **Open to roles**: _Android Developer_ | _Java Developer_  
+🤝 **Looking to collaborate on**: _Spring Boot_ and _Android development_ projects.  
+🌩️ **Ask me about**: _Spring Boot_, _Android applications_, and _REST APIs_.  
+🌱 **Currently exploring**: _Jetpack Compose_ to build modern Android UIs.
+
 
 <br/>
 
@@ -68,24 +70,25 @@ Hello! Welcome to my Profile
 
 <br/>
 
-# 🌐 Connect with Me
+# 🌐 Connect with Me  
 
-### 💼 Profile / Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gyarsilal-solanki/)
-[![Docker Hub](https://img.shields.io/badge/DockerHub-Profile-blue?logo=docker&style=for-the-badge)](https://hub.docker.com/u/gyarsilalsolanki011)<br/> 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&style=for-the-badge)](https://api.whatsapp.com/send/?phone=917620824421) 
-[![Email](https://img.shields.io/badge/Email-gyarsilalsolanki.dev%40gmail.com-red?logo=gmail&style=for-the-badge)](mailto:gyarsilanki.dev@gmail.com) 
+### 💼 Profile & Contact  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gyarsilal-solanki/)  
+[![Docker Hub](https://img.shields.io/badge/DockerHub-Profile-2496ED?logo=docker&style=for-the-badge)](https://hub.docker.com/u/gyarsilalsolanki011)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&style=for-the-badge)](https://api.whatsapp.com/send/?phone=917620824421)  
+[![Email](https://img.shields.io/badge/Email-gyarsilalsolanki.dev%40gmail.com-D14836?logo=gmail&style=for-the-badge)](mailto:gyarsilalsolanki.dev@gmail.com)   
 
-### 🌐 Socials
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23BD081C.svg?logo=Pinterest&logoColor=white&style=for-the-badge)](https://in.pinterest.com/gyarsilalsolanki011) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/itz_gsl_tiger) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://x.com/Itz_gsl_tiger) 
-[![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=Snapchat&logoColor=black&style=for-the-badge)](https://www.snapchat.com/add/itz_gsltiger?share_id=7OCVgTGQWSg&locale=en-GB) 
 
-### 📬 Join My Communities
-[![Join Discord](https://img.shields.io/discord/1405808666179014697?color=4CBB17&label=Join%20Us%20on%20Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/Zrc9x3ts)  
-[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-black?style=for-the-badge&logo=github)](https://github.com/eleven-dev-cafe/cafe-talks/discussions)  
-[![Join WhatsApp Group](https://img.shields.io/badge/WhatsApp-Join-green?logo=whatsapp&style=for-the-badge)](https://chat.whatsapp.com/Fzt4KispCmk0seaPgSvkyX) 
+### 📬 Join My Communities  
+[![Join Discord](https://img.shields.io/discord/1405808666179014697?color=5865F2&label=Join%20Us%20on%20Discord&logo=discord&style=for-the-badge)](https://discord.gg/Zrc9x3ts)  
+[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?logo=github&style=for-the-badge)](https://github.com/eleven-dev-cafe/cafe-talks/discussions)  
+[![Join WhatsApp Group](https://img.shields.io/badge/WhatsApp-Community-25D366?logo=whatsapp&style=for-the-badge)](https://chat.whatsapp.com/Fzt4KispCmk0seaPgSvkyX)  
+
+### 🌐 Socials  
+[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?logo=pinterest&logoColor=white&style=for-the-badge)](https://in.pinterest.com/gyarsilalsolanki011) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/itz_gsl_tiger) 
+[![Twitter / X](https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=white&style=for-the-badge)](https://x.com/Itz_gsl_tiger) 
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?logo=snapchat&logoColor=black&style=for-the-badge)](https://www.snapchat.com/add/itz_gsltiger?share_id=7OCVgTGQWSg&locale=en-GB) 
 
 <br/>
 
@@ -98,6 +101,7 @@ Join us to contribute, collaborate, and grow together! 🚀
 <br/>
 
 # 📊 GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyarsilalsolanki011&theme=tokyonight)
 ![Stats](https://github-readme-stats.vercel.app/api?username=gyarsilalsolanki011&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gyarsilalsolanki011&theme=tokyonight&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gyarsilalsolanki011&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
