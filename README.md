@@ -109,7 +109,7 @@ Join us to contribute, collaborate, and grow together! 🚀
 <br/>
 
 ### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=gyarsilalsolanki011&show_icons=true&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=gyarsilalsolanki011&show_icons=true&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ### 📊 Contribution Activity
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gyarsilalsolanki011&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
