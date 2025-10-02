@@ -75,7 +75,7 @@
 #### 💼 Profile & Contact  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gyarsilal-solanki/)  
 [![Docker Hub](https://img.shields.io/badge/DockerHub-Profile-2496ED?logo=docker&style=for-the-badge)](https://hub.docker.com/u/gyarsilalsolanki011)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&style=for-the-badge)](https://api.whatsapp.com/send/?phone=917620824421)  
+<!-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&style=for-the-badge)](https://api.whatsapp.com/send/?phone=917620824421)  -->
 [![Email](https://img.shields.io/badge/Email-gyarsilalsolanki.dev%40gmail.com-D14836?logo=gmail&style=for-the-badge)](mailto:gyarsilalsolanki.dev@gmail.com)   
 
 
@@ -88,7 +88,7 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?logo=pinterest&logoColor=white&style=for-the-badge)](https://in.pinterest.com/gyarsilalsolanki011) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/itz_gsl_tiger) 
 [![Twitter / X](https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=white&style=for-the-badge)](https://x.com/Itz_gsl_tiger) 
-[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?logo=snapchat&logoColor=black&style=for-the-badge)](https://www.snapchat.com/add/itz_gsltiger?share_id=7OCVgTGQWSg&locale=en-GB) 
+<!-- [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?logo=snapchat&logoColor=black&style=for-the-badge)](https://www.snapchat.com/add/itz_gsltiger?share_id=7OCVgTGQWSg&locale=en-GB) -->
 
 <br/>
 
