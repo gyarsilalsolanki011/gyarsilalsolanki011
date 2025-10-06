@@ -82,7 +82,7 @@
 
 #### 📬 Join My Communities  
 [![Join Discord](https://img.shields.io/discord/1405808666179014697?color=5865F2&label=Join%20Us%20on%20Discord&logo=discord&style=for-the-badge)](https://discord.gg/Zrc9x3ts)  
-[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?logo=github&style=for-the-badge)](https://github.com/eleven-dev-cafe/cafe-talks/discussions)  
+[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?logo=github&style=for-the-badge)](https://github.com/gyarsilalsolanki011/gyarsilalsolanki011/discussions/2)  
 [![Join WhatsApp Group](https://img.shields.io/badge/WhatsApp-Community-25D366?logo=whatsapp&style=for-the-badge)](https://chat.whatsapp.com/Fzt4KispCmk0seaPgSvkyX)  
 
 #### 🌐 Socials  
