@@ -41,6 +41,10 @@
 
 <br/>
 
+<details>
+
+<summary>Featured Projects and Certification</summary>
+
 ## 🌟 Featured Projects
 
 1. **Banking Application**  
@@ -68,6 +72,8 @@
 - Industrial Training (June–July 2024) – Backend Developer  
 - Qualified GATE 2025  
 
+</details>
+
 <br/>
 
 ## 🌐 Connect with Me  
@@ -79,19 +85,32 @@
 <!-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&style=for-the-badge)](https://api.whatsapp.com/send/?phone=917620824421)  -->
 [![Email](https://img.shields.io/badge/Email-gyarsilalsolanki.dev%40gmail.com-D14836?logo=gmail&style=for-the-badge)](mailto:gyarsilalsolanki.dev@gmail.com)   
 
+<details>
+<summary>Communities and Socials</summary>
 
 #### 📬 Join My Communities   
 [![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?logo=github&style=for-the-badge)](https://github.com/gyarsilalsolanki011/gyarsilalsolanki011/discussions/2)  
 [![Join WhatsApp Group](https://img.shields.io/badge/WhatsApp-Community-25D366?logo=whatsapp&style=for-the-badge)](https://chat.whatsapp.com/Fzt4KispCmk0seaPgSvkyX)  
 [![Join Discord](https://img.shields.io/discord/1405808666179014697?color=5865F2&label=Join%20Us%20on%20Discord&logo=discord&style=for-the-badge)](https://discord.gg/Zrc9x3ts) 
 
-#### 🌐 Socials  
+<details>
+
+<summary>🌐 Socials </summary> <br> 
+
 [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?logo=pinterest&logoColor=white&style=for-the-badge)](https://in.pinterest.com/gyarsilalsolanki011) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/itz_gsl_tiger) 
 [![Twitter / X](https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=white&style=for-the-badge)](https://x.com/Itz_gsl_tiger) 
 <!-- [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?logo=snapchat&logoColor=black&style=for-the-badge)](https://www.snapchat.com/add/itz_gsltiger?share_id=7OCVgTGQWSg&locale=en-GB) -->
 
+</details>
+
+</details>
+
 <br/>
+
+<details>
+
+<summary>Github Organization</summary>
 
 ### 🍵 Join ***Eleven Development Cafe***
 We are building a collaborative developer community under the **Eleven Development Cafe** GitHub organization.  
@@ -99,10 +118,12 @@ Join us to contribute, collaborate, and grow together! 🚀
 
 [![Join Us](https://img.shields.io/badge/Join%20Eleven%20Dev%20Cafe-GitHub%20Org-black?style=for-the-badge&logo=github)](https://github.com/orgs/eleven-dev-cafe)
 
+</details>
+
 <br/>
 
 ## 📊 GitHub Stats
-![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyarsilalsolanki011&theme=tokyonight)
+<!-- ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyarsilalsolanki011&theme=tokyonight) -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=gyarsilalsolanki011&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gyarsilalsolanki011&theme=tokyonight&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gyarsilalsolanki011&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
