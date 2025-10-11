@@ -25,11 +25,11 @@
 
 `Android Technologies`
 
-[![Skills](https://skillicons.dev/icons?i=androidstudio,materialui,redis,kafka,gradle&theme=dark)]()
+[![Skills](https://skillicons.dev/icons?i=androidstudio,materialui,firebase,gradle&theme=dark)]() 
 
 `Backend Technologies`  
 
-[![Skills](https://skillicons.dev/icons?i=spring,hibernate,docker,maven&theme=dark)]()
+[![Skills](https://skillicons.dev/icons?i=spring,hibernate,redis,kafka,docker,maven&theme=dark)]()
 
 `Databases`  
 
@@ -37,7 +37,7 @@
 
 `Tools & Platforms` 
 
-[![Skills](https://skillicons.dev/icons?i=vscode,idea,postman,git,github,firebase,githubactions,gitlab,railway&theme=dark)]()
+[![Skills](https://skillicons.dev/icons?i=vscode,idea,postman,git,github,githubactions,render&theme=dark)]()
 
 <br/>
 
