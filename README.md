@@ -14,7 +14,9 @@
 🌩️ **Ask me about**: _Spring Boot_, _Android applications_, and _REST APIs_.  
 🌱 **Currently exploring**: _Jetpack Compose_ to build modern Android UIs.
 
+<br/>
 
+[![Portfolio](https://img.shields.io/badge/Visit%20My-Portfolio-blue?style=for-the-badge&logo=google-chrome)](https://gyarsilalsolanki.onrender.com/home)
 <br/>
 
 ## 🛠️ Tech Skills
@@ -81,7 +83,7 @@
 #### 💼 Profile & Contact  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gyarsilal-solanki/)  
 [![Docker Hub](https://img.shields.io/badge/DockerHub-Profile-2496ED?logo=docker&style=for-the-badge)](https://hub.docker.com/u/gyarsilalsolanki011)  
-[![Portfolio](https://img.shields.io/badge/Visit%20My-Portfolio-blue?style=for-the-badge&logo=google-chrome)](https://gyarsilalsolanki.onrender.com/home)
+<!-- [![Portfolio](https://img.shields.io/badge/Visit%20My-Portfolio-blue?style=for-the-badge&logo=google-chrome)](https://gyarsilalsolanki.onrender.com/home) -->
 <!-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&style=for-the-badge)](https://api.whatsapp.com/send/?phone=917620824421)  -->
 [![Email](https://img.shields.io/badge/Email-gyarsilalsolanki.dev%40gmail.com-D14836?logo=gmail&style=for-the-badge)](mailto:gyarsilalsolanki.dev@gmail.com)   
 
