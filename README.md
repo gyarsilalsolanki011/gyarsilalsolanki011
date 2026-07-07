@@ -49,17 +49,22 @@
 
 ## 🌟 Featured Projects
 
-1. **Banking Application**  
+1. **EliteConnect - Matrimony Application**
+   A full-stack matrimonial application with **Spring Boot, Java, MySQL, JWT, Hibernate (JPA)** backend and collaborated on a **React, TypeScript, Vite** frontend.
+   **Tech:** Java, Spring Boot, MySQL, React
+   [Repo Link](https://github.com/gyarsilalsolanki011/EliteConnect)
+
+3. **Banking Application**  
    A full-stack Android & Spring Boot banking app with **QR payments, user roles, and analytics**.  
    **Tech:** Java, Kotlin, Spring Boot, MongoDB  
    [Repo Link](https://github.com/gyarsilalsolanki011/banking-application)
 
-2. **Smart Expense Tracker**  
+4. **Smart Expense Tracker**  
    A Spring Boot application to track income and expenses with **analytics dashboards and PDF/Excel export**.  
    **Tech:** Spring Boot, Thymeleaf, Chart.js  
    [Repo Link](https://github.com/gyarsilalsolanki011/smart-expense-tracker)
 
-3. **Weather Cap**  
+5. **Weather Cap**  
    An Android app for **fetching weather information using APIs**.  
    **Tech:** Java, Retrofit, XML UI  
    [Repo Link](https://github.com/gyarsilalsolanki011/weather-cap)
