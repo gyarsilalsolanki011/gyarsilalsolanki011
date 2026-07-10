@@ -136,23 +136,23 @@ Join us to contribute, collaborate, and grow together! 🚀
 
 ## 📊 GitHub Stats
 <!-- ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyarsilalsolanki011&theme=tokyonight) -->
-![Stats](https://github-readme-stats.vercel.app/api?username=gyarsilalsolanki011&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gyarsilalsolanki011&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gyarsilalsolanki011&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=gyarsilalsolanki011&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=gyarsilalsolanki011&theme=tokyonight&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gyarsilalsolanki011&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <br/>
 
 ### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=gyarsilalsolanki011&show_icons=true&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=gyarsilalsolanki011&show_icons=true&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ### 📊 Contribution Activity
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gyarsilalsolanki011&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-readme-activity-graph.vercel.app/graph?username=gyarsilalsolanki011&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true)
 
 ### ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repos
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=gyarsilalsolanki011&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=gyarsilalsolanki011&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <br/>
 
