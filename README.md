@@ -9,10 +9,10 @@
 ## 💫 About Me
 
 🔭 **Currently seeking**: A full-time job opportunity.  
-👯 **Open to roles**: _Android Developer_ | _Java Developer_  
+👯 **Open to roles**: _Java Developer_ | _Android Developer_   
 🤝 **Looking to collaborate on**: _Spring Boot_ and _Android development_ projects.  
 🌩️ **Ask me about**: _Spring Boot_, _Android applications_, and _REST APIs_.  
-🌱 **Currently exploring**: _Jetpack Compose_ to build modern Android UIs.
+🌱 **Currently exploring**:  _Modern Java_, _Spring Boot_ to build Backend Application.
 
 <br/>
 
@@ -43,11 +43,11 @@
 
 <br/>
 
+## Featured Projects and Certification
+
 <details>
 
-<summary>Featured Projects and Certification</summary>
-
-## 🌟 Featured Projects
+<summary>🌟 Featured Projects</summary>
 
 1. **EliteConnect - Matrimony Application**
    A full-stack matrimonial application with **Spring Boot, Java, MySQL, JWT, Hibernate (JPA)** backend and collaborated on a **React, TypeScript, Vite** frontend.  
@@ -71,13 +71,18 @@
 
 > Some of my projects are pinned below 👇
 
+</details>
+
 <br/>
 
-## 🏆 Certifications & Achievements
+<details>
+
+<summary>🏆 Certifications & Achievements</summary> 
+
 - GitHub Professional [Certificate](https://www.linkedin.com/learning/certificates/30bc416d905dc4bee7d237d645553826554edb8f8ea7a738d8ca8f8122d3a64f?trk=share_certificate) – Career Essentials  
 - Docker Professional [Certificate](https://www.linkedin.com/learning/certificates/f85d0185e63c3c5b2f0c35b1f0ebc5c01b8a8793186581f1054abffaed65c66c?trk=share_certificate) – Foundational  
 - Industrial Training (June–July 2024) – Backend Developer  
-- Qualified GATE 2025  
+- Qualified GATE 2025
 
 </details>
 
