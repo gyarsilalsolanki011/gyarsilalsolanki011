@@ -9,8 +9,8 @@
 ## 💫 About Me
 
 🔭 **Currently seeking**: A full-time job opportunity.  
-👯 **Open to roles**: _Java Developer_ | _Android Developer_   
-🤝 **Looking to collaborate on**: _Spring Boot_ and _Android development_ projects.  
+👯 **Open to roles**: _Java Developer_ | _Android Developer_  | _Software Developer_ 
+🤝 **Looking to collaborate on**: _Spring Boot_, _Angular_ and _Android development_ projects.  
 🌩️ **Ask me about**: _Spring Boot_, _Android applications_, and _REST APIs_.  
 🌱 **Currently exploring**:  _Modern Java_, _Spring Boot_ and _Angular_ to build full stack Application.
 
