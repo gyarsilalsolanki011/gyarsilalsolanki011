@@ -12,7 +12,7 @@
 👯 **Open to roles**: _Java Developer_ | _Android Developer_   
 🤝 **Looking to collaborate on**: _Spring Boot_ and _Android development_ projects.  
 🌩️ **Ask me about**: _Spring Boot_, _Android applications_, and _REST APIs_.  
-🌱 **Currently exploring**:  _Modern Java_, _Spring Boot_ to build Backend Application.
+🌱 **Currently exploring**:  _Modern Java_, _Spring Boot_ and _Angular_ to build full stack Application.
 
 <br/>
 
