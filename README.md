@@ -9,9 +9,9 @@
 ## 💫 About Me
 
 🔭 **Currently seeking**: A full-time job opportunity.  
-👯 **Open to roles**: _Java Developer_ | _Android Developer_  | _Software Developer_ 
+👯 **Open to roles**: _Java Developer_ | _Android Developer_  | _Software Developer_  
 🤝 **Looking to collaborate on**: _Spring Boot_, _Angular_ and _Android development_ projects.  
-🌩️ **Ask me about**: _Spring Boot_, _Android applications_, and _REST APIs_.  
+🌩️ **Ask me about**: _Spring Boot_, _Angular_, _Android applications_, and _REST APIs_.  
 🌱 **Currently exploring**:  _Modern Java_, _Spring Boot_ and _Angular_ to build full stack Application.
 
 <br/>
@@ -25,13 +25,18 @@
 
 [![Skills](https://skillicons.dev/icons?i=java,kotlin,dart,c,cpp&theme=dark)]()
 
-`Android Technologies`
 
-[![Skills](https://skillicons.dev/icons?i=androidstudio,materialui,firebase,gradle&theme=dark)]() 
+`Frontend Technologies`
+
+[![Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,angular&theme=dark)]() 
 
 `Backend Technologies`  
 
-[![Skills](https://skillicons.dev/icons?i=spring,hibernate,redis,kafka,docker,maven&theme=dark)]()
+[![Skills](https://skillicons.dev/icons?i=spring,hibernate,redis,kafka,docker,maven&theme=dark)]() 
+
+`Android Technologies`
+
+[![Skills](https://skillicons.dev/icons?i=androidstudio,materialui,firebase,gradle&theme=dark)]() 
 
 `Databases`  
 
