@@ -50,7 +50,7 @@
 <summary>🌟 Featured Projects</summary>
 
 1. **EliteConnect - Matrimony Application**
-   A full-stack matrimonial application with **Spring Boot, Java, MySQL, JWT, Hibernate (JPA)** backend and collaborated on a **React, TypeScript, Vite** frontend.  
+   A full-stack matrimonial application developed with **Spring Boot, Java, MySQL, JWT, Hibernate (JPA)** backend and collaborated on a **React, TypeScript, Vite** frontend.  
    **Tech:** Java, Spring Boot, MySQL, React  
    [Repo Link](https://github.com/gyarsilalsolanki011/EliteConnect)
 
